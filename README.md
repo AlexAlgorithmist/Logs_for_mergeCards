@@ -1,1 +1,1 @@
-"# Logs_for_mergeCards" 
+# Logs_for_mergeCards
